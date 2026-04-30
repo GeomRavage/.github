@@ -1,23 +1,18 @@
 <div align="center">
 
-<!-- Banner image -->
-<img src="./assets/geomravage-banner.png" alt="GeomRavage Banner" width="100%" />
-
-<br><br>
+<img src="https://raw.githubusercontent.com/GeomRavage/.github/main/profile/assets/banner.png" alt="GeomRavage Banner" width="100%" />
 
 # GeomRavage
 
 ### Cybersecurity & CTF Team
 
-We build, break, reverse, exploit, analyze, and compete.
+**We build. We break. We reverse. We exploit. We analyze. We compete.**
 
-<br>
+[![CTFtime](https://img.shields.io/badge/CTFtime-Team-blue?style=for-the-badge)](https://ctftime.org/team/412925)
+[![Location](https://img.shields.io/badge/Location-Jordan-green?style=for-the-badge)]()
+[![Focus](https://img.shields.io/badge/Focus-CTF%20%26%20Security-red?style=for-the-badge)]()
 
-![Web](https://img.shields.io/badge/Web-Exploitation-blue?style=for-the-badge)
-![Crypto](https://img.shields.io/badge/Crypto-Analysis-purple?style=for-the-badge)
-![Pwn](https://img.shields.io/badge/Pwn-Binary%20Exploitation-red?style=for-the-badge)
-![Reverse](https://img.shields.io/badge/Reverse-Engineering-orange?style=for-the-badge)
-![Forensics](https://img.shields.io/badge/Forensics-Investigation-green?style=for-the-badge)
+`Web` • `Crypto` • `Pwn` • `Reverse Engineering` • `Forensics` • `Misc`
 
 </div>
 
@@ -25,54 +20,58 @@ We build, break, reverse, exploit, analyze, and compete.
 
 ## About Us
 
-**GeomRavage** is a cybersecurity and CTF team focused on solving, building, and hosting high-quality Capture The Flag challenges.
+**GeomRavage** is a cybersecurity and Capture The Flag (**CTF**) team focused on learning, competing, building tools, solving challenges, and creating high-quality security content.
 
-Our team works across multiple cybersecurity categories, including exploitation, cryptography, reverse engineering, forensics, and challenge development.
+We aim to strengthen our skills across offensive and defensive security through teamwork, practice, research, and challenge development.
 
 ---
 
 ## Focus Areas
 
-| Category | What We Do |
-|---|---|
-| **Web Exploitation** | Vulnerability discovery, web attacks, and secure testing |
-| **Cryptography** | Classical crypto, modern crypto, attacks, and analysis |
-| **Binary Exploitation** | Pwn, memory corruption, Linux exploitation |
-| **Reverse Engineering** | Static analysis, dynamic analysis, binaries, and malware-style challenges |
-| **Digital Forensics** | PCAPs, logs, filesystems, steganography, and incident analysis |
-| **CTF Infrastructure** | CTFd, challenge hosting, automation, and deployment |
+- **Web Exploitation**
+- **Cryptography**
+- **Binary Exploitation (Pwn)**
+- **Reverse Engineering**
+- **Digital Forensics**
+- **Miscellaneous Challenges**
+- **CTF Infrastructure & Automation**
+
+---
+
+## What We Do
+
+- Compete in CTF competitions
+- Publish writeups and technical notes
+- Build internal tools and scripts
+- Develop custom CTF challenges
+- Collaborate on security research and practice
 
 ---
 
 ## Projects
 
-Coming soon.
+> Coming soon.
 
 <!--
 - Jadara CTF
-- CTF writeups
-- Challenge development
-- Discord webhook integrations
-- CTFd customization
+- CTF Writeups
+- Challenge Development
+- CTFd Customization
+- Discord Integrations
+- Internal Tools
 -->
 
 ---
 
-## Team Values
+## Connect With Us
 
-- Evidence-based solving
-- Clean writeups
-- Reproducible methods
-- Strong teamwork
-- Creative challenge design
+- **CTFtime:** https://ctftime.org/team/412925
+- **Email:** geomravage@gmail.com
 
 ---
 
-## Contact
-
 <div align="center">
 
-**Email:** geomravage@gmail.com  
-**CTFtime:** https://ctftime.org/team/412925
+**GeomRavage — Turning complexity into control.**
 
 </div>
