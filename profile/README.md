@@ -51,6 +51,26 @@ We aim to strengthen our skills across offensive and defensive security through 
 
 ---
 
+## Achievements & Writeups
+
+<div align="center">
+
+<img src="./assets/trophy-1.png" alt="GeomRavage Trophy Screenshot" width="750" />
+
+</div>
+
+### 🏆 Writeup Challenge Winner - Locked Temple
+
+We are proud to feature one of our winning writeups from a Reverse Engineering challenge in the **[upCTF 2026](https://ctftime.org/event/3073)**:
+
+**Challenge:** Locked Temple  
+**Category:** Reverse Engineering  
+**Writeup:** [Read the full writeup](https://github.com/0xAeterNova/upctf-writeups/blob/main/REV/Locked%20Temple/Write-Up.md)
+
+This writeup demonstrates our approach to reverse engineering, analysis, problem solving, and documenting the full path from challenge understanding to final solution.
+
+---
+
 ## Projects
 
 > Coming soon.
