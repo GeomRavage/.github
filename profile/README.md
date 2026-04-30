@@ -28,12 +28,14 @@ GeomRavage is a cybersecurity and CTF team focused on solving, building, and hos
 
 ## Projects
 
+Coming soon.
+<!--
 - Jadara CTF
 - CTF writeups
 - Challenge development
 - Discord webhook integrations
 - CTFd customization
-
+-->
 ## Contact
 
 Coming soon.
